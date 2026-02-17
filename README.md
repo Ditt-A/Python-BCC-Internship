@@ -1,9 +1,5 @@
 # Python-BCC-Internship
 
-<p align="center">
-  <img width="100%" src="Images/foto.jpeg" alt="foto">
-</p>
-
 Hello fellow BCC interns and aspiring data scientists! 👋
 
 This BCC Data Science Department repository is your friendly guide to mastering the fundamentals of Python with a focus on skills that are essential for data science. Here, you'll learn basic programming concepts such as data types, loops, conditionals, functions, Object-Oriented Programming (OOP), etc to build a solid foundation for your data science journey.
